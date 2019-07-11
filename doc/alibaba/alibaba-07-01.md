@@ -58,8 +58,6 @@
 
 10. 有没有遇到进线上GC，出现的症状是什么样的，怎么解决的？
 
-11. spring的加载过程？
-
 12. atomic与 volatile的区别？
 
 13. Thread的 notify给notifyAll的区别?
