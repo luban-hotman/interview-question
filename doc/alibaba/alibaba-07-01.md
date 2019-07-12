@@ -6,7 +6,7 @@
 
 3. [SKU的全称是什么，SKU与SPU的区别及关系？](alibaba-07-01/SKU的全称是什么-SKU与SPU的区别及关系.md)
 
-4. FileInputStream在使用完以后，不关闭流，想二次使用可以怎么操作？
+4. [FileInputStream在使用完以后，不关闭流，想二次使用可以怎么操作？](alibaba-07-01/FileInputStream在使用完以后-不关闭流-想二次使用可以怎么操作.md)
 
 5. 设计一个分布式登录系统？
 
